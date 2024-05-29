@@ -1,4 +1,4 @@
-<h1>Color Picker</h1>
+<h1>Weight_Converter</h1>
 
 <h3>키로그램을 온스와 파운드로 변환해주는 프로그램</h3>
 
