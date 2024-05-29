@@ -1,4 +1,4 @@
-<h1>Color Picker</h1>
+<h1>Drum</h1>
 
 <h3>javscipt를 사용해 드럼 키트 만들기</h3>
 
