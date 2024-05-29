@@ -1,8 +1,8 @@
-<h1>Color Picker</h1>
+<h1>Random Color</h1>
 
-<h3>색을 선택하여 HEX코드값, RGB코드값, HSL코드값을 얻을 수 있는 프로그램이다</h3>
+<h3>선택한 색은 복사되고 새로고침 버튼을 누르면 새로고침 되는 프로그램이다</h3>
 
-![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/2e2c8ba0-ea49-4e7e-89f4-500712dffc9c)
+![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/0a3bb89a-a7e2-47c7-9328-fc39f9bce495)
 
 
 
