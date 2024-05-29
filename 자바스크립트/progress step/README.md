@@ -1,8 +1,9 @@
-<h1>Color Picker</h1>
+<h1>progress step</h1>
 
-<h3>색을 선택하여 HEX코드값, RGB코드값, HSL코드값을 얻을 수 있는 프로그램이다</h3>
+<h3>next를 누르면 색이 채워지고, prev를 누르면 색이 사라지는 프로그램</h3>
 
-![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/2e2c8ba0-ea49-4e7e-89f4-500712dffc9c)
+![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/ec9792f5-a2e7-4467-ade3-f2b6edbd50cc)
+
 
 
 
