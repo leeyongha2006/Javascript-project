@@ -5,9 +5,9 @@
 ![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/afc5ddb4-abcb-47bc-9448-5f0e5121d525)
 
 
-![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/b243a1f2-17fb-43ec-9e71-e9da08987e41)
 
 
+![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/0869aa8b-0ddd-48c4-89d7-d16b965149d4)
 
 
 ![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/d6f0a611-7d6d-4bfa-9485-cde971e1cc80)
