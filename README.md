@@ -28,6 +28,8 @@
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Stopwatch">Stopwatch
 
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Stopwatch2"> Stopwatch2
+
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Todo%20List">Todo List
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/blob/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Weight_Converter/README.md">Weight_Converter
@@ -41,3 +43,7 @@
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/note%20app">note app
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/progress%20step">progress step
+
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Levitate_Board">Levitate_Board
+
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Traffic%20Lights">Traffic Lights
