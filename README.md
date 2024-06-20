@@ -66,6 +66,8 @@
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Simple%20Form%20Validation">Simple Form Validation
 
+<a href = "https://github.com/leeyongha2006/Javascript-project/blob/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Snake-Game/README.md"> Snake Game
+
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Lorem%20Ipsum%20Generate">Lorem Ipsum Generate
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/RPS%20Game"RPS Game
