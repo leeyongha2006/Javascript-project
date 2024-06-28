@@ -73,3 +73,7 @@
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/RPS%20Game">RPS Game
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Snake-Game">Snake-Game
+
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Age%20Calculator">Age Calculator
+
+<a href = "https://github.com/leeyongha2006/Javascript-project/blob/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Gradient%20Generator/README.md"> Gradient Generator
