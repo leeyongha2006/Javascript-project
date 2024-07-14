@@ -92,3 +92,6 @@
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Notes%20Taking%20App%20assets"> Note Taking App
 
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Captain%20America%20-%20css"> Captain America Shield
+
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Design%20Plant%20-%20css"> Design Plant
