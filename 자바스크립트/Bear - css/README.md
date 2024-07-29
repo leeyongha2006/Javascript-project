@@ -1,8 +1,9 @@
-<h1>Clock</h1>
+<h1>Bear</h1>
 
-<h3>자바 스크립트를 이용해 현재 시간을 불러와 화면에 나타내주는 프로그램이다</h3>
+<h3>css를 활용하여 곰 만들기</h3>
 
-![image](https://github.com/leeyongha2006/Javascript-project/assets/126844590/82871db7-1fd0-47a4-aa05-582ebd1c010b)
+![image](https://github.com/user-attachments/assets/c9ed6c3d-9f1f-409f-9a06-de8f468e8697)
+
 
 
 
