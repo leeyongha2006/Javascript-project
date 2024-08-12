@@ -96,6 +96,9 @@
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Design%20Plant%20-%20css"> Design Plant
 
+<a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Movie%20App"> Movie App
+
+
 <a href = "https://github.com/leeyongha2006/Javascript-project/tree/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Typing%20Platform"> Typing Platform
 
 <a href = "https://github.com/leeyongha2006/Javascript-project/blob/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Bear%20-%20css/README.md"> Bear - css
